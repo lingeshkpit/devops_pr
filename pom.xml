@@ -205,7 +205,7 @@
     </build>
 	    <repositories>
     <repository>
-      <id>vprofile-grp-repo</id>
+      <id>nexus-maven</id>
       <url>http://${NEXUSIP}:${NEXUSPORT}/repository/${REPONAME}/</url>
     </repository>
   </repositories>
