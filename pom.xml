@@ -206,7 +206,7 @@
 	    <repositories>
     <repository>
       <id>nexus-maven</id>
-      <url>http://${NEXUSIP}:${NEXUSPORT}/repository/${REPONAME}/</url>
+      <url>http://${NEXUSIP}/repository/${REPONAME}/</url>
     </repository>
   </repositories>
 
